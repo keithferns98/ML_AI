@@ -1,0 +1,22 @@
+# Virtual environments
+venv/
+.venv/
+
+# Datasets
+dataset/
+datasets/
+
+# Jupyter / Plotly / Matplotlib outputs
+iframe_figures/
+*.html
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
