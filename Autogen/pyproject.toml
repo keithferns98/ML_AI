@@ -1,0 +1,14 @@
+[project]
+name = "autogen"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "asyncio>=4.0.0",
+    "autogen-agentchat>=0.7.5",
+    "autogen-core>=0.7.5",
+    "autogen-ext[openai]>=0.7.5",
+    "ipykernel>=7.2.0",
+    "python-dotenv>=1.2.1",
+]
